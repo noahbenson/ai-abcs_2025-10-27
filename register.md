@@ -35,8 +35,8 @@ installed.**
 
 ## How to Register
 
-Registration fees are $10. Once registration is open, an Eventbrite widget will
-be visible below.
+Registration fees are $10. You only need to purchase 1 ticket for any of the
+four days of the workshop.
 
 <div id="eventbrite-widget-container-{{site.eventbrite}}"></div>
 
